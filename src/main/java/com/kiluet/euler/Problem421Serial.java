@@ -4,6 +4,12 @@ import java.math.BigInteger;
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * 4921275331
+ * duration to calculate = 55 seconds
+ * 
+ * @author jdr0887
+ */
 public class Problem421Serial extends AbstractProblem implements Runnable {
 
     public Problem421Serial() {

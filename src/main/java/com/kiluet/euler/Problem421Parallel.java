@@ -9,10 +9,11 @@ import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.RecursiveTask;
 
 /**
- * 2304215802083466198
+ * 
+ * 4921275331
+ * duration to calculate = 3 seconds
  * 
  * @author jdr0887
- * 
  */
 public class Problem421Parallel extends AbstractProblem implements Runnable {
 
